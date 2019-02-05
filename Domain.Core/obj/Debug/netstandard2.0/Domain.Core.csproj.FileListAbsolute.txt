@@ -1,0 +1,16 @@
+C:\Users\Matt Pugliese\source\repos\JSONConsoleApp\Domain.Core\obj\Debug\netstandard2.0\Domain.Core.csproj.CoreCompileInputs.cache
+C:\Users\Matt Pugliese\source\repos\JSONConsoleApp\Domain.Core\obj\Debug\netstandard2.0\Domain.Core.AssemblyInfoInputs.cache
+C:\Users\Matt Pugliese\source\repos\JSONConsoleApp\Domain.Core\obj\Debug\netstandard2.0\Domain.Core.AssemblyInfo.cs
+C:\Users\Matt Pugliese\source\repos\JSONConsoleApp\Domain.Core\bin\Debug\netstandard2.0\Domain.Core.deps.json
+C:\Users\Matt Pugliese\source\repos\JSONConsoleApp\Domain.Core\bin\Debug\netstandard2.0\Domain.Core.dll
+C:\Users\Matt Pugliese\source\repos\JSONConsoleApp\Domain.Core\bin\Debug\netstandard2.0\Domain.Core.pdb
+C:\Users\Matt Pugliese\source\repos\JSONConsoleApp\Domain.Core\obj\Debug\netstandard2.0\Domain.Core.dll
+C:\Users\Matt Pugliese\source\repos\JSONConsoleApp\Domain.Core\obj\Debug\netstandard2.0\Domain.Core.pdb
+C:\Users\Matt Pugliese\source\repos\MinViableProduct\Domain.Core\bin\Debug\netstandard2.0\Domain.Core.deps.json
+C:\Users\Matt Pugliese\source\repos\MinViableProduct\Domain.Core\bin\Debug\netstandard2.0\Domain.Core.dll
+C:\Users\Matt Pugliese\source\repos\MinViableProduct\Domain.Core\bin\Debug\netstandard2.0\Domain.Core.pdb
+C:\Users\Matt Pugliese\source\repos\MinViableProduct\Domain.Core\obj\Debug\netstandard2.0\Domain.Core.csproj.CoreCompileInputs.cache
+C:\Users\Matt Pugliese\source\repos\MinViableProduct\Domain.Core\obj\Debug\netstandard2.0\Domain.Core.AssemblyInfoInputs.cache
+C:\Users\Matt Pugliese\source\repos\MinViableProduct\Domain.Core\obj\Debug\netstandard2.0\Domain.Core.AssemblyInfo.cs
+C:\Users\Matt Pugliese\source\repos\MinViableProduct\Domain.Core\obj\Debug\netstandard2.0\Domain.Core.dll
+C:\Users\Matt Pugliese\source\repos\MinViableProduct\Domain.Core\obj\Debug\netstandard2.0\Domain.Core.pdb
