@@ -1,0 +1,10 @@
+C:\Users\Matt Pugliese\source\repos\JSONConsoleApp\JSONConsoleApp\bin\Debug\netcoreapp2.1\JSONConsoleApp.deps.json
+C:\Users\Matt Pugliese\source\repos\JSONConsoleApp\JSONConsoleApp\bin\Debug\netcoreapp2.1\JSONConsoleApp.runtimeconfig.json
+C:\Users\Matt Pugliese\source\repos\JSONConsoleApp\JSONConsoleApp\bin\Debug\netcoreapp2.1\JSONConsoleApp.runtimeconfig.dev.json
+C:\Users\Matt Pugliese\source\repos\JSONConsoleApp\JSONConsoleApp\bin\Debug\netcoreapp2.1\JSONConsoleApp.dll
+C:\Users\Matt Pugliese\source\repos\JSONConsoleApp\JSONConsoleApp\bin\Debug\netcoreapp2.1\JSONConsoleApp.pdb
+C:\Users\Matt Pugliese\source\repos\JSONConsoleApp\JSONConsoleApp\obj\Debug\netcoreapp2.1\JSONConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Matt Pugliese\source\repos\JSONConsoleApp\JSONConsoleApp\obj\Debug\netcoreapp2.1\JSONConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Matt Pugliese\source\repos\JSONConsoleApp\JSONConsoleApp\obj\Debug\netcoreapp2.1\JSONConsoleApp.AssemblyInfo.cs
+C:\Users\Matt Pugliese\source\repos\JSONConsoleApp\JSONConsoleApp\obj\Debug\netcoreapp2.1\JSONConsoleApp.dll
+C:\Users\Matt Pugliese\source\repos\JSONConsoleApp\JSONConsoleApp\obj\Debug\netcoreapp2.1\JSONConsoleApp.pdb
